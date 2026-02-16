@@ -132,6 +132,7 @@ MediaPipe FaceMesh
 NumPy / SciPy
 Matplotlib
 Streamlit
+
 ESP8266 + AD8232 ECG Sensor
 
 🎯 Applications
