@@ -114,32 +114,50 @@ pip install -r requirements.txt
 Launch Dashboard
 streamlit run dashboard/app.py
 
-Usage Flow
+🎶Usage Flow
+
 Record or upload a video
+
 Run facial stress analysis
+
 (Optional) Collect ECG via ESP8266
+
 View combined stress results
 
 🔐 Data & Privacy
+
 No real datasets are included in this repository
+
 Facial videos and ECG data are processed locally
+
 Design follows privacy, ethical, and reproducibility best practices
 
 🛠️ Tech Stack
+
 Python
+
 OpenCV
+
 MediaPipe FaceMesh
+
 NumPy / SciPy
+
 Matplotlib
+
 Streamlit
 
 ESP8266 + AD8232 ECG Sensor
 
 🎯 Applications
+
 Mental health monitoring
+
 Human–Computer Interaction
+
 IoT-based healthcare systems
+
 Stress-aware smart environments
+
 Academic research and prototyping
 
 ⚠️ Disclaimer
